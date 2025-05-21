@@ -1,14 +1,12 @@
 # tk-object-detection
 
 ## 🖼️ Project Overview
-This project is a Python-based object detection application featuring a modern GUI built with `ttkbootstrap`. It leverages deep learning libraries such as PyTorch, torchvision, and Ultralytics for robust object detection tasks. The application is designed to be user-friendly and efficient for various computer vision needs.
+This project is a Python-based object detection application featuring a modern GUI built with `ttkbootstrap`. It leverages deep learning libraries such as PyTorch, torchvision, and Ultralytics for robust object detection tasks. The application uses Ultralytics YOLOv8 as its main object detection engine, providing state-of-the-art accuracy and performance. The application is designed to be user-friendly and efficient for various computer vision needs.
 
 ## ✨ Features
 - Object detection using pre-trained models
 - Modern and intuitive GUI
 - Easy image selection and detection
-- Progress tracking with `tqdm`
-- Support for custom and standard models
 
 ## ⚙️ Requirements
 - Python 3.13.0
