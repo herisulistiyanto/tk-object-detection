@@ -18,7 +18,7 @@ FRAME_WIDTH = 640
 FRAME_HEIGHT = 480
 
 # Available models: https://docs.ultralytics.com/models/
-MODEL_NAME = 'yolov8n.pt'
+MODEL_NAME = 'yolo12n.pt'
 model = YOLO(MODEL_NAME)
 
 def list_cameras(max_idx=5):
